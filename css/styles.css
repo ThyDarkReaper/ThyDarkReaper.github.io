@@ -35,7 +35,7 @@ section {
 
 h2 {
     color: white;
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid rgba(176,199,189,0.8);
     padding-bottom: 5px;
 }
 
@@ -55,7 +55,7 @@ p {
 }
 
 footer {
-    background-color: grey;
+    background-color: rgba(176,199,189,0.8);
     color: white;
     text-align: center;
     padding: 10px;
