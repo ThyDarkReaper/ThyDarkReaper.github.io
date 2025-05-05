@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: grey;
+    background-color: rgba(176,199,189,0.8);
     color: white;
     padding: 20px;
     text-align: center;
